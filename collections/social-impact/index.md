@@ -1,15 +1,22 @@
 ---
 items:
- - hotosm/osm-tasking-manager2
- - RefugeRestrooms/refugerestrooms
- - ifmeorg/ifme
  - GliaX/Stethoscope
  - HospitalRun/hospitalrun-frontend
+ - get-alex/alex
+ - coralproject/talk
+ - hotosm/tasking-manager
  - OptiKey/OptiKey
- - drewrwilson/toolsforactivism
- - hackaye/activism-framework
- - ncase/polygons
+ - ifmeorg/ifme
+ - RefugeRestrooms/refugerestrooms
+ - hurricane-response/florence-api
+ - rubyforgood/terrastories
+ - rubyforgood/diaper
+ - rubyforgood/diaperpartner
+ - rubyforgood/playtime
+ - rubyforgood/demand-progress
+ - ebimodeling/ghgvc
+ - IEEEKeralaSection/rescuekerala
 display_name: Social Impact
-created_by: mozzadrella
+created_by: bescalante
 ---
-Better lives through open source technology
+Improving our world through open source technology

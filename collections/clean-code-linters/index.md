@@ -6,9 +6,11 @@ items:
  - clutchski/coffeelint
  - csscomb/csscomb.js
  - brigade/scss-lint
- - yaniswang/HTMLHint
+ - htmlhint/HTMLHint
  - CSSLint/csslint
  - PyCQA/pycodestyle
+ - PyCQA/flake8
+ - ambv/black
  - checkstyle/checkstyle
  - rubocop-hq/rubocop
  - oclint/oclint
@@ -19,6 +21,7 @@ items:
  - innogames/igcommit
  - rodjek/puppet-lint
  - koalaman/shellcheck
+ - jimhester/lintr
 display_name: Clean code linters
 created_by: holman
 ---
