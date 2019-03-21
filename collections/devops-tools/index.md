@@ -8,7 +8,7 @@ items:
  - openstack/openstack
  - moby/moby
  - capistrano/capistrano
- - etsy/statsd
+ - statsd/statsd
  - graphite-project/graphite-web
  - elastic/logstash
  - fabric/fabric
@@ -22,7 +22,6 @@ items:
  - cloud66-oss/habitus
  - Kong/kong
  - jenkinsci/jenkins
- - moby/moby
  - kubernetes/kubernetes
  - apache/mesos
  - SeleniumHQ/selenium
